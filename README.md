@@ -18,7 +18,6 @@ SonicCipher is a Python-based project that allows encoding and decoding text mes
 
 ## ⚙️ Installation
 
-```bash
 pip install -r requirements.txt
 
 
