@@ -14,5 +14,9 @@ SonicCipher is a Python-based project that allows encoding and decoding text mes
 - 💾 Save and load encoded messages as audio files
 - 🖼️ GUI built with Tkinter for ease of use
 
-## 📂 Project Structure
 
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
